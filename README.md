@@ -1,5 +1,3 @@
-# riri_smart_canteen_booking
-
 # Smart Canteen Table Booking System
 
 A real-time canteen table booking system using **YOLOv8**, **Streamlit**, **Twilio SMS**, and **QR code generation**.
